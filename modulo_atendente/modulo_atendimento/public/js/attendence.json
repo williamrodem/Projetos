@@ -1,0 +1,10 @@
+    {
+        "crm": "crm",
+        "doctor": "doctor",
+        "specialty": "specialty",
+
+        "name_patient": "name_patient",
+        "cpf_patient": "cpf_patient",
+        "telephone_patient": "telephone_patient"
+
+    }
